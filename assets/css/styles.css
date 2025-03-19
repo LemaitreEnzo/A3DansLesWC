@@ -1,0 +1,38 @@
+body {
+    color: #333333;
+    background-color: #F7F7F7;
+}
+.navbar {
+    background-color: #004085;
+}
+.navbar .nav-link {
+    color: #FFFFFF;
+}
+.navbar .nav-link:hover {
+    color: #FFD700;
+}
+.list-group-item a {
+    color: #FFFFFF;
+    background-color: #007BFF;
+    padding: 5px 10px;
+    border-radius: 5px;
+    text-decoration: none;
+}
+.list-group-item a:hover {
+    background-color: #0056b3;
+}
+
+.animated-element {
+    transform: translateY(0);
+    opacity: 1;
+    transition: transform 0.3s, opacity 0.3s;
+}
+img {
+    width: 100%;
+    height: auto;
+}
+@font-face {
+    font-family: 'CustomFont';
+    src: url('font.woff2') format('woff2');
+    font-display: swap;
+}
