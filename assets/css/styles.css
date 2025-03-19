@@ -3,6 +3,12 @@ body {
     background-color: #F7F7F7;
 }
 
+
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+    filter: invert(70%) sepia(88%) saturate(6194%) hue-rotate(0deg) brightness(95%) contrast(110%);
+}
+
 .animated-element {
     transform: translateY(0);
     opacity: 1;
