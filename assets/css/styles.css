@@ -5,12 +5,7 @@ body {
 .navbar {
     background-color: #004085;
 }
-.navbar .nav-link {
-    color: #FFFFFF;
-}
-.navbar .nav-link:hover {
-    color: #FFD700;
-}
+
 .list-group-item a {
     color: #FFFFFF;
     background-color: #007BFF;
