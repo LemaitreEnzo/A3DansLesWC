@@ -2,20 +2,6 @@ body {
     color: #333333;
     background-color: #F7F7F7;
 }
-.navbar {
-    background-color: #004085;
-}
-
-.list-group-item a {
-    color: #FFFFFF;
-    background-color: #007BFF;
-    padding: 5px 10px;
-    border-radius: 5px;
-    text-decoration: none;
-}
-.list-group-item a:hover {
-    background-color: #0056b3;
-}
 
 .animated-element {
     transform: translateY(0);
